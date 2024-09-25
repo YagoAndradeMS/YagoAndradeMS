@@ -1,12 +1,12 @@
-### Boas vindas ao meu perfil 💙👨‍🎓
+### Welcome to my profile 💙👨‍🎓
 
-Meu nome é Yago Andrade Matias da Silva
+My name is Yago Andrade Matias da Silva
 
-- Estou estudando programação
-- Estou me desenvolvendo principalmente na linguagem JavaSCript
-- Eu uso este espaço para me organizar e compartilhar meus projetos
+- I'm studying programming
+- I am developing mainly in the JavaSCript language
+- I use this space to organize myself and share my projects
 
-### Você pode entrar em contato comigo
+### You can contact me
 
 andradeyago2007@gmail.com
 
