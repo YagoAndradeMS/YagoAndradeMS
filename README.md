@@ -10,7 +10,7 @@ Organization and sharing of projects: I use this space to structure my ideas, tr
 
 I am currently studying and contributing to the construction of the iControl website - a digital financial control and I am looking for a job
 
-project link: https://icontrolweb.com.br
+project link: https://app.icontrolweb.com.br
 
 ### You can contact me
 
